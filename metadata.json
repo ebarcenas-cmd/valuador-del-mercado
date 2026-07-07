@@ -1,6 +1,0 @@
-{
-  "name": "Valuador de Mercado TAM, SAM y SOM",
-  "description": "Calculadora interactiva, visualizador dinámico, simulador de proyecciones y generador de Reportes de Oportunidad con IA para dimensionar el mercado de tu startup.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
